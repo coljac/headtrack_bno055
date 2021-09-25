@@ -10,7 +10,7 @@ Here's the terrible prototype:
 
 ![Prototype](images/proto.png)
 
-![In action](tracker.gif)
+![In action](images/tracker.gif)
 
 ## Summary of the build process
 
